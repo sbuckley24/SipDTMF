@@ -1,0 +1,6 @@
+﻿  rtpRelay.cpp
+c:\users\administrator\pubgit\rtprelay\rtprelay\rtprelay.cpp(116): warning C4101: 'ltime': unreferenced local variable
+c:\users\administrator\pubgit\rtprelay\rtprelay\rtprelay.cpp(118): warning C4101: 'local_tv_sec': unreferenced local variable
+c:\users\administrator\pubgit\rtprelay\rtprelay\rtprelay.cpp(117): warning C4101: 'timestr': unreferenced local variable
+  rtpRelay.vcxproj -> C:\Users\Administrator\PubGit\rtpRelay\Debug\rtpRelay.exe
+  rtpRelay.vcxproj -> C:\Users\Administrator\PubGit\rtpRelay\Debug\rtpRelay.pdb (Partial PDB)
